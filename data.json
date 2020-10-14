@@ -1,0 +1,132 @@
+[
+  {
+        "name": "Mulia Hartawan Negara",
+        "age": 20,
+        "address": "lamongan",
+        "hobby": [
+            "coding", "gaming"
+        ],
+        "skill": {
+            "skill1": "bisa membuat website",
+            "skill2": "bisa membuat mobile apps"
+        }
+
+    },
+    {
+        "name": "Hafidh Soekma Ardiansyah",
+        "age": 21,
+        "address": "pasuruan",
+        "hobby": [
+            "membaca",
+            "gaming"
+        ],
+        "skill": {
+            "skill1": "bisa mengusai bahasa pemrograman js",
+            "skill2": "pandai berbahasa inggris"
+        }
+    },
+    {
+        "name": "Muhammad Ladzi Safroni",
+        "age": 19,
+        "address": "surabaya",
+        "hobby": [
+            "menulis",
+            "berenang"
+        ],
+        "skill": {
+            "skill1": "bisa mengusai bahasa pemrograman java",
+            "skill2": "paham OOP java"
+        }
+    },
+    {
+        "name": "Yusril Adriansyah Putra",
+        "age": 20,
+        "address": "surabaya",
+        "hobby": [
+            "coding",
+            "bersepeda"
+        ],
+        "skill": {
+            "skill1": "paham menggunakan Bootstrap",
+            "skill2": "paham menggunakan Jquerry"
+        }
+    },
+    {
+        "name": "Muhammad Rikzan",
+        "age": 20,
+        "address": "mojokerto",
+        "hobby": [
+            "gaming",
+            "berpetualang"
+        ],
+        "skill": {
+            "skill1": "bisa menggunakan laravel",
+            "skill2": "paham Restfull API"
+        }
+    },
+    {
+        "name": "Siti Rosalina",
+        "age": 21,
+        "address": "gresik",
+        "hobby": [
+            "bersepeda",
+            "menulis"
+        ],
+        "skill": {
+            "skill1": "paham dengan struktur data",
+            "skill2": "bisa menggunakan AJAX"
+        }
+    },
+    {
+        "name": "Yuwike Ayuningtyas",
+        "age": 20,
+        "address": "banyuwangi",
+        "hobby": [
+            "memasak",
+            "naik gunung"
+        ],
+        "skill": {
+            "skill1": "bisa membuat UI/UX",
+            "skill2": "paham templating css"
+        }
+    },
+    {
+        "name": "Firda Aininnisa",
+        "age": 20,
+        "address": "tuban",
+        "hobby": [
+            "berlari",
+            "makan"
+        ],
+        "skill": {
+            "skill1": "paham tentang Basis Data",
+            "skill2": "familiar dengan SQL"
+        }
+    },
+    {
+        "name": "Seriusman Waruwu",
+        "age": 19,
+        "address": "malang",
+        "hobby": [
+            "gaming",
+            "nonton film"
+        ],
+        "skill": {
+            "skill1": "bisa edit vidio menggunakan adobe premier pro",
+            "skill2": "paham menggunakan kamera mirrorless"
+        }
+    },
+    {
+        "name": "Dedy Yusuf",
+        "age": 19,
+        "address": "purwosari",
+        "hobby": [
+            "menggambar",
+            "coding"
+        ],
+        "skill": {
+            "skill1": "paham dengan bahasa pemrograman python",
+            "skill2": "bisa menggunakan framework Django"
+        }
+    },
+]
