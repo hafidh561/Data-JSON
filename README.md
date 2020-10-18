@@ -91,3 +91,9 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
         git push origin sample-project
 
 11. Setelah di push, kita akan melakukan pull request dan membandingkan perubahan yang telah anda lakukan terhadap repo pusat. Anda juga bisa menyisipkan pesan untuk memberitahukan developer pemilik repo pusat tentang apa yang anda lakukan. Setelah yakin terhadap perubahan yang telah anda lakukan, silahkan pilih create pull request dan menunggu tanggapan dari pemilik repo pusat. Lebih lengkapnya bisa anda lihat di tag screenshot.
+
+----
+## Credits
+
+* [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Git
+* [hacktoberfest-indonesia](https://github.com/fdciabdul/hacktoberfest-indonesia) - Hacktoberfest Indonesia
