@@ -1,0 +1,15 @@
+[
+   {
+        "name": "Hafidh Soekma Ardiansyah",
+        "age": 21,
+        "address": "pasuruan",
+        "hobby": [
+            "membaca",
+            "gaming"
+        ],
+        "skill": {
+            "skill1": "bisa mengusai bahasa pemrograman js",
+            "skill2": "pandai berbahasa inggris"
+        }
+    }
+]
