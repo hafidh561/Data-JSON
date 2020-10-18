@@ -1,0 +1,13 @@
+[
+  {
+        "name": "Namamu",
+        "age": "Umurmu",
+        "address": "Alamatmu",
+        "hobby": [
+            "Hobbymu"
+        ],
+        "skill": {
+            "skill1": "Skillmu"
+        }
+    },
+]
