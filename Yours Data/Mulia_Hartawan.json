@@ -1,0 +1,15 @@
+[
+  {
+        "name": "Mulia Hartawan Negara",
+        "age": 20,
+        "address": "lamongan",
+        "hobby": [
+            "coding", "gaming"
+        ],
+        "skill": {
+            "skill1": "bisa membuat website",
+            "skill2": "bisa membuat mobile apps"
+        }
+
+    },
+]
