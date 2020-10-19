@@ -23,3 +23,12 @@ fetch('data.json')
 }).then(data => {
     console.log(data);
 });
+
+////create JSON to object using fetching with async await
+const fetchData = async url => {
+    const response = await fetch(url);
+    const data = await response.json();
+    
+    console.log(data);
+};
+fetchData('data.json');
