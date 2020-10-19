@@ -1,0 +1,15 @@
+  
+[
+  {
+        "name": "Yusril Adriansyah Putra",
+        "age": 20,
+        "address": "Surabaya",
+        "hobby": [
+            "coding", "weaboo"
+        ],
+        "skill": {
+            "skill1": "Front-end development",
+            "skill2": "PWA development"
+        }
+    }
+]
