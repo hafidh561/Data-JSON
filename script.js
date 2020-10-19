@@ -15,3 +15,11 @@ xhr.send();
 $.getJSON('data.json', function (data) {
     console.log(data);
 })
+
+////create JSON to object using fetching with promise
+fetch('data.json')
+.then(dataJSON => {
+    return dataJSON.json();
+}).then(data => {
+    console.log(data);
+});
