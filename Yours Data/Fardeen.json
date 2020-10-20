@@ -1,0 +1,13 @@
+[
+  {
+        "name": "Fardeen Atallah Kabir Muhammad",
+        "age": "17",
+        "address": "Krian,Sidoarjo",
+        "hobby": [
+            "Gaming"
+        ],
+        "skill": {
+            "skill1": "Javascript,Figma,Photoshop,PWA"
+        }
+    },
+]
