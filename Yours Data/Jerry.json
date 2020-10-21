@@ -1,0 +1,13 @@
+[
+  {
+        "name": "Jerry Yan Krismanto",
+        "age": "18",
+        "address": "Gresik",
+        "hobby": [
+            "Gaming"
+        ],
+        "skill": {
+            "skill1": "C++, Premiere, RTS"
+        }
+    },
+]
