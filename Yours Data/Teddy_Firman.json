@@ -1,0 +1,14 @@
+[
+    {
+          "name": "Teddy Firman",
+          "age": "21",
+          "address": "Jombang, Indonesia",
+          "hobby": [
+              "Stand up comedy"
+          ],
+          "skill": {
+              "skill1": "Programming"
+          }
+      },
+  ]
+  
